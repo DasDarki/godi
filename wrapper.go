@@ -1,4 +1,4 @@
-package main
+package godi
 
 type serviceCallback func(a ...any) error
 
